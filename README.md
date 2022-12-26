@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything data-science and deep learning related, and I'll be happy to help you out. I love talking about this!**
 
-- 📫 How to reach me ****[email](mailto:alighf@gmail.com?subject=[GitHub]) me or connect on LinkedIn.**
+- 📫 How to reach me **[mail](mailto:alighf@gmail.com?subject=[GitHub]) me or connect on LinkedIn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
